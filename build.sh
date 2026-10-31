@@ -12,3 +12,5 @@ echo "================================="
 echo "Hello from Jenkins!"
 
 echo "Build completed successfully."
+echo "This is all i have done in my AWS Training"
+echo "Thankful to my trainer (Mr. Prashant Singh Gautam Sir) who made every concept easy to understand and grasp it completely."
